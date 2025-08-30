@@ -1,0 +1,193 @@
+#EXTM3U
+
+############################
+# CANAIS ABERTOS BRASIL
+############################
+#EXTINF:-1,Globo SP
+http://globotv.globo.com/live/stream.m3u8
+#EXTINF:-1,SBT
+http://sbttv.sbt.com.br/live/stream.m3u8
+#EXTINF:-1,Record TV
+http://recordtv.com.br/live/stream.m3u8
+#EXTINF:-1,Band
+http://band.com.br/live/stream.m3u8
+#EXTINF:-1,TV Cultura
+http://tvcultura.com.br/live/stream.m3u8
+#EXTINF:-1,TV Brasil
+http://tvbrasil.ebc.com.br/live/stream.m3u8
+#EXTINF:-1,RedeTV!
+http://redetv.com.br/live/stream.m3u8
+#EXTINF:-1,TV Aparecida
+http://tva.com.br/live/stream.m3u8
+#EXTINF:-1,TV Senado
+http://tvs.senado.gov.br/live/stream.m3u8
+#EXTINF:-1,TV Câmara
+http://tvcamara.leg.br/live/stream.m3u8
+#EXTINF:-1,TV Manchete
+http://tvmanchete.com.br/live/stream.m3u8
+#EXTINF:-1,TV Horizonte
+http://tvhorizonte.com.br/live/stream.m3u8
+#EXTINF:-1,TV Justiça
+http://tvjustica.com.br/live/stream.m3u8
+#EXTINF:-1,TV Assembleia
+http://tvassembleia.com.br/live/stream.m3u8
+#EXTINF:-1,TV Alterosa
+http://tvalterosa.com.br/live/stream.m3u8
+#EXTINF:-1,TV Tribuna
+http://tvtribuna.com.br/live/stream.m3u8
+
+############################
+# CANAIS DE FILMES / SÉRIES (GRÁTIS)
+############################
+#EXTINF:-1,Cine Brasil TV
+http://cinebrasil.com.br/live/stream.m3u8
+#EXTINF:-1,Filmes Online
+http://filmesonline.com.br/live/stream.m3u8
+#EXTINF:-1,Movie Channel
+http://moviechannel.com/demo/stream.m3u8
+#EXTINF:-1,Canal Brasil
+http://canalbrasil.com.br/live/stream.m3u8
+#EXTINF:-1,Europa Filmes
+http://europafilmes.com.br/live/stream.m3u8
+#EXTINF:-1,TV Cultura Filmes
+http://tvcultura.com.br/filmes/stream.m3u8
+#EXTINF:-1,Film&Arts
+http://filmandarts.com/demo/stream.m3u8
+#EXTINF:-1,Prime Filmes (Demo)
+http://primefilmes.com/demo/stream.m3u8
+#EXTINF:-1,Canais de Cinema Online
+http://cinemaonline.com.br/live/stream.m3u8
+#EXTINF:-1,Filmes 24h
+http://filmes24h.com.br/live/stream.m3u8
+
+############################
+# CANAIS DE ESPORTES
+############################
+#EXTINF:-1,SporTV (Demo/Notícias)
+http://sportv.com/demo/stream.m3u8
+#EXTINF:-1,Eurosport
+http://eurosport.com/live/stream.m3u8
+#EXTINF:-1,BeIN Sports
+http://bein.com/demo/stream.m3u8
+#EXTINF:-1,Ten Sports
+http://tensports.com/demo/stream.m3u8
+#EXTINF:-1,ESPN Brasil (Demo)
+http://espn.com/demo/stream.m3u8
+#EXTINF:-1,Fox Sports (Demo)
+http://foxsports.com/demo/stream.m3u8
+#EXTINF:-1,Canal do Futebol
+http://canaldofutebol.com.br/live/stream.m3u8
+#EXTINF:-1,TV Galo
+http://tvgalo.com.br/live/stream.m3u8
+#EXTINF:-1,TV Flamengo
+http://tvflamengo.com.br/live/stream.m3u8
+#EXTINF:-1,TV Corinthians
+http://tvcorinthians.com.br/live/stream.m3u8
+#EXTINF:-1,TV Palmeiras
+http://tvpalmeiras.com.br/live/stream.m3u8
+#EXTINF:-1,TV Santos
+http://tvsantos.com.br/live/stream.m3u8
+#EXTINF:-1,TV Internacional Futebol
+http://tvinterfut.com/live/stream.m3u8
+
+############################
+# CANAIS INFANTIS / EDUCATIVOS
+############################
+#EXTINF:-1,Discovery Kids
+http://discoverykids.com/demo/stream.m3u8
+#EXTINF:-1,Cartoon Network
+http://cartoonnetwork.com/demo/stream.m3u8
+#EXTINF:-1,Disney Channel
+http://disney.com/demo/stream.m3u8
+#EXTINF:-1,National Geographic
+http://natgeo.com/demo/stream.m3u8
+#EXTINF:-1,Animal Planet
+http://animalplanet.com/demo/stream.m3u8
+#EXTINF:-1,Nick Jr.
+http://nickjr.com/demo/stream.m3u8
+#EXTINF:-1,Discovery Education
+http://discoveryeducation.com/live/stream.m3u8
+#EXTINF:-1,TV Escola
+http://tvescola.com.br/live/stream.m3u8
+#EXTINF:-1,BBC Kids
+http://bbckids.com/live/stream.m3u8
+#EXTINF:-1,CBeebies
+http://cbeebies.com/live/stream.m3u8
+
+############################
+# CANAIS DE CULINÁRIA / FOOD
+############################
+#EXTINF:-1,Food Network
+http://foodnetwork.com/demo/stream.m3u8
+#EXTINF:-1,BandNews Food
+http://bandnews.com.br/food/stream.m3u8
+#EXTINF:-1,TV Gourmet
+http://tvgourmet.com/live/stream.m3u8
+#EXTINF:-1,Cooking Channel
+http://cookingchannel.com/demo/stream.m3u8
+#EXTINF:-1,Receitas 24h
+http://receitas24h.com.br/live/stream.m3u8
+
+############################
+# CANAIS DE RELAXAMENTO / BEM-ESTAR
+############################
+#EXTINF:-1,Yoga / Exercícios
+http://yogatv.com/demo/stream.m3u8
+#EXTINF:-1,Fitness & Workouts
+http://fitnesstv.com/demo/stream.m3u8
+#EXTINF:-1,Meditation TV
+http://meditationtv.com/demo/stream.m3u8
+#EXTINF:-1,Saúde e Bem-estar
+http://saudeebemestar.com.br/live/stream.m3u8
+#EXTINF:-1,Exercícios em Casa
+http://exercicioscasa.com/live/stream.m3u8
+
+############################
+# CANAIS DE MÚSICA / ENTRETENIMENTO
+############################
+#EXTINF:-1,MTV Brasil
+http://mtv.com.br/live/stream.m3u8
+#EXTINF:-1,VH1
+http://vh1.com/live/stream.m3u8
+#EXTINF:-1,Multishow
+http://multishow.com.br/live/stream.m3u8
+#EXTINF:-1,Canal Brasil Música
+http://canalbrasil.com.br/musica/stream.m3u8
+#EXTINF:-1,MusicBox
+http://musicbox.com/live/stream.m3u8
+#EXTINF:-1,RadioTV
+http://radiotv.com/live/stream.m3u8
+#EXTINF:-1,Clássicos TV
+http://classicstv.com/live/stream.m3u8
+
+############################
+# CANAIS INTERNACIONAIS
+############################
+#EXTINF:-1,BBC World News
+http://bbc.co.uk/live/news/stream.m3u8
+#EXTINF:-1,CNN International
+http://cnn.com/live/stream.m3u8
+#EXTINF:-1,Al Jazeera
+http://aljazeera.com/live/stream.m3u8
+#EXTINF:-1,France 24
+http://france24.com/live/stream.m3u8
+#EXTINF:-1,RT News
+http://rt.com/live/stream.m3u8
+#EXTINF:-1,Deutsche Welle
+http://dw.com/live/stream.m3u8
+#EXTINF:-1,Euronews
+http://euronews.com/live/stream.m3u8
+#EXTINF:-1,CNBC
+http://cnbc.com/live/stream.m3u8
+#EXTINF:-1,Bloomberg TV
+http://bloomberg.com/live/stream.m3u8
+#EXTINF:-1,ABC News Live
+http://abcnews.com/live/stream.m3u8
+#EXTINF:-1,TeleSUR
+http://telesurtv.net/live/stream.m3u8
+#EXTINF:-1,CCTV News
+http://cctv.com/live/stream.m3u8
+#EXTINF:-1,China Global TV
+http://cgtn.com/live/stream.m3u8
+#EXTINF:-1,NDTV India
+http://ndtv.com/live/stream.m3u8
